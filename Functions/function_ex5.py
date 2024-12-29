@@ -2,6 +2,11 @@ import random
 import time
 from collections import defaultdict
 
+'''
+
+Functions used for Part 5
+
+'''
 
 def compute_modularity(adj_list, communities, m):
     """Calculate the weighted modularity of the graph."""

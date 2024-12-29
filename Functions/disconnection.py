@@ -2,6 +2,12 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from collections import deque
 
+'''
+
+Functions used for Part 4
+
+'''
+
 def bfs_find_path(residual, source, sink, parent):
     """Perform Breadth-First Search (BFS) to find a path in the residual graph.
     

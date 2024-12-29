@@ -3,6 +3,13 @@ import pandas as pd
 from scipy.stats import percentileofscore
 import pandas as pd
 
+
+'''
+
+Functions used for Part 2
+
+'''
+
 def calculate_betweenness_centrality(graph):
     """
     Calculate the betweenness centrality for all nodes in a graph.
