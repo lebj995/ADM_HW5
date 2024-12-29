@@ -6,4 +6,4 @@
 
 2. **`functions`**: A folder containing three separate files, each dedicated to the implementation of the functions for questions 2, 4, and 5. These files provide modular and reusable code for specific parts of the homework.
 
-3. **`airports_map.html`**: An interactive HTML file that displays a map of the airports from the dataset. This visualization helps in better understanding the geographic distribution and connectivity of the airports.
+3. **`airports_map.html`**: An interactive HTML file that displays a map of the airports from a sample of the first 20000 rows of the dataset. This visualization helps in better understanding the geographic distribution and connectivity of the airports.
